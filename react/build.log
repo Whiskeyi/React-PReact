@@ -1,0 +1,20 @@
+asset vendors.c53766d1928e41653436.js 144 KiB [emitted] [immutable] [minimized] (name: vendors) (id hint: vendor)
+asset runtime.d5b2777fc3d7bae93dd6.js 985 bytes [emitted] [immutable] [minimized] (name: runtime)
+asset main.5d9064e3bacd4b0fe2d9.js 499 bytes [emitted] [immutable] [minimized] (name: main)
+asset index.html 457 bytes [emitted]
+Entrypoint main 145 KiB = runtime.d5b2777fc3d7bae93dd6.js 985 bytes vendors.c53766d1928e41653436.js 144 KiB main.5d9064e3bacd4b0fe2d9.js 499 bytes
+runtime modules 2.75 KiB 4 modules
+orphan modules 864 bytes [orphan] 2 modules
+modules by path ./node_modules/.pnpm/ 207 KiB
+  modules by path ./node_modules/.pnpm/react@18.0.0/node_modules/react/ 6.96 KiB 2 modules
+  modules by path ./node_modules/.pnpm/react-dom@18.0.0_react@18.0.0/node_modules/react-dom/ 130 KiB
+    ./node_modules/.pnpm/react-dom@18.0.0_react@18.0.0/node_modules/react-dom/index.js 1.33 KiB [built] [code generated]
+    ./node_modules/.pnpm/react-dom@18.0.0_react@18.0.0/node_modules/react-dom/cjs/react-dom.production.min.js 128 KiB [built] [code generated]
+  modules by path ./node_modules/.pnpm/scheduler@0.21.0/node_modules/scheduler/ 4.33 KiB
+    ./node_modules/.pnpm/scheduler@0.21.0/node_modules/scheduler/index.js 198 bytes [built] [code generated]
+    ./node_modules/.pnpm/scheduler@0.21.0/node_modules/scheduler/cjs/scheduler.production.min.js 4.14 KiB [built] [code generated]
+  ./node_modules/.pnpm/react-router-dom@6.3.0_zpnidt7m3osuk7shl3s4oenomq/node_modules/react-router-dom/index.js 11.3 KiB [built] [code generated]
+  ./node_modules/.pnpm/react-router@6.3.0_react@18.0.0/node_modules/react-router/index.js 32.7 KiB [built] [code generated]
+  ./node_modules/.pnpm/history@5.3.0/node_modules/history/index.js + 1 modules 22.5 KiB [built] [code generated]
+./src/index.jsx + 1 modules 761 bytes [built] [code generated]
+webpack 5.71.0 compiled successfully in 3039 ms

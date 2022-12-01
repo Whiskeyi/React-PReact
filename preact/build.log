@@ -1,0 +1,14 @@
+asset vendors.e36f90f632f8ce360a4a.js 27.1 KiB [emitted] [immutable] [minimized] (name: vendors) (id hint: vendor)
+asset runtime.d5b2777fc3d7bae93dd6.js 985 bytes [emitted] [immutable] [minimized] (name: runtime)
+asset main.b3365a55e2d9526b9a47.js 521 bytes [emitted] [immutable] [minimized] (name: main)
+asset index.html 458 bytes [emitted]
+Entrypoint main 28.5 KiB = runtime.d5b2777fc3d7bae93dd6.js 985 bytes vendors.e36f90f632f8ce360a4a.js 27.1 KiB main.b3365a55e2d9526b9a47.js 521 bytes
+orphan modules 13.3 KiB [orphan] 4 modules
+runtime modules 2.75 KiB 4 modules
+cacheable modules 88.2 KiB
+  ./src/index.jsx + 1 modules 762 bytes [built] [code generated]
+  ./node_modules/.pnpm/preact@10.7.0/node_modules/preact/compat/dist/compat.module.js + 2 modules 20.9 KiB [built] [code generated]
+  ./node_modules/.pnpm/react-router-dom@6.3.0_zpnidt7m3osuk7shl3s4oenomq/node_modules/react-router-dom/index.js 11.3 KiB [built] [code generated]
+  ./node_modules/.pnpm/react-router@6.3.0_react@18.0.0/node_modules/react-router/index.js 32.7 KiB [built] [code generated]
+  ./node_modules/.pnpm/history@5.3.0/node_modules/history/index.js + 1 modules 22.5 KiB [built] [code generated]
+webpack 5.71.0 compiled successfully in 1533 ms
